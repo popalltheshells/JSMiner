@@ -10,6 +10,9 @@ I created this Chrome extension as an additional help when conducting applicatio
 
 ## Usage
 - Pin the extension and click "mine"
+  
 ![image](https://github.com/user-attachments/assets/4d62e150-7de8-4d82-8e21-ba2e833c7dd6)
+
 - Observe the result: This is sample of mined URLs from x.com
+  
 ![image](https://github.com/user-attachments/assets/f6e51b95-ae33-4948-84a9-9b607154d0ff)
